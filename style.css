@@ -1,0 +1,84 @@
+body{
+    background-color: #f4f3f8;
+}
+#navFirst{
+    position: absolute;
+    top:50px;
+    left:100px;
+}
+#navMid{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    height:100px;
+    max-width: 50%;
+    margin: auto;
+    font-family: 'Abel', sans-serif;
+    font-size: 18px;
+}
+#navEnd > div{
+    position: relative;
+    top:-80px;
+    left:1260px;
+    padding:22px;
+    display: inline-block;
+    /* margin: 0 40px 0 0; */
+}
+.line.bottom::after{
+background: none;
+}
+.line::after{
+    background: black;
+  height: 2px;
+  flex: 1;
+  content: '';
+}
+#midWholePart11{
+    font-family: 'Allerta', sans-serif;
+    margin-left: 60px;
+    max-width: 40%;
+}
+#monstera{
+    font-size: 50px;
+    margin-bottom: -10px;
+}
+#midWholePart121 > div > h1{
+    margin-left: 80px;
+    border-radius: 20px;
+    background-color: #466d50;
+    color: #fff;
+    max-width: 15%;
+    font-family: 'Abel', sans-serif;
+    text-align: center;
+}
+#midWholePart122 > img{
+    position: relative;
+    top:-55px;
+    left:270px;
+}
+#imgMain{
+    position: absolute;
+    top:150px;
+    right:0px;
+    height:560px;
+}
+ #midWholePart13 {
+    max-width: 60%;
+    display: flex;
+    margin-left: 40px;
+    font-family: 'Allerta', sans-serif;
+    
+} 
+#feeding, #light, #care{
+    float: left;
+}
+
+
+
+
+
+
+
+
+
