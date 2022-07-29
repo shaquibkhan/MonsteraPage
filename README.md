@@ -34,7 +34,7 @@
 - Below is the screen shot of how does this web app page looks like while running on the browser.
 
 
-![localimages]('./thumbnail/thumbnail.png')
+![localimages](./thumbnail/thumbnail.png)
 
 
 
